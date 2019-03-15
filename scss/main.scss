@@ -1,0 +1,13 @@
+$color-fondo:#ccc;
+
+body {
+    background-color: $color-fondo;
+    & p {
+        margin: 0 auto;
+        padding: 15px;
+    }
+}
+
+main {
+    display: grid;
+}

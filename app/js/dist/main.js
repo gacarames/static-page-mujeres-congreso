@@ -1,0 +1,1 @@
+!function(){var o;o="Guillermo",console.info(o,", un saludo desde infobae")}();
